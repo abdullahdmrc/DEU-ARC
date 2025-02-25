@@ -1,2 +1,2 @@
 # DEU ARC
- basic computer simulation with Quartus
+ Computer architecture simulation with Quartus
